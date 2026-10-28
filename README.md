@@ -37,16 +37,6 @@
 
 ---
 
-### 💼 Selected Design Projects
-
-| Project / Concept | Discipline | Core Tools | View Details |
-| :--- | :--- | :--- | :--- |
-| **My Designs Showcase** | Digital Graphics, Slides & Brand Assets | Figma • Photoshop | [Open in Figma](https://www.figma.com/design/RvnCywIhPOUogYiduqbwMX/MY-DESIGNS?node-id=0-1&t=dQCIaRC5QbSrcaC4-1) |
-| **Modern Brand Ecosystem** | Visual Identity & Marketing | Photoshop • Canva • AI | [View on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
-| **Commercial Campaign Creatives** | Digital Ad Creatives | Figma • Photoshop • Midjourney | [View on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
-
----
-
 ### 🚀 Explore My Work & Connect
 
 - 🎨 **Explore My Figma Workspace:** <a href="https://www.figma.com/design/RvnCywIhPOUogYiduqbwMX/MY-DESIGNS?node-id=0-1&t=dQCIaRC5QbSrcaC4-1" target="_blank">Open "My Designs" on Figma</a>
